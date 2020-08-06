@@ -1,0 +1,1 @@
+Project made to learn about making terrains and objects for computer game called Arma3.
